@@ -1,0 +1,72 @@
+# Project Summary
+
+## Overview
+
+During my IT Security Infrastructure internship, I worked on improving the operational reliability and efficiency of enterprise SOC platforms. My responsibilities included supporting security tooling, improving documentation governance, optimizing data ingestion processes, and resolving integration issues across multiple security systems.
+
+## Problems Addressed
+
+Security operations environments often face challenges related to data volume, system integration, and access governance. Some key challenges included:
+
+High ingestion volume creating operational overhead  
+Complex documentation access roles  
+Integration issues between security tools  
+Endpoint interoperability issues  
+
+These issues can impact SOC efficiency and security visibility.
+
+## Actions Taken
+
+My work included:
+
+Maintaining operational health of SOC platforms including Splunk, NetWitness, and SentinelOne
+
+Troubleshooting ingestion, indexing, and API integration issues
+
+Supporting migration of SOC documentation to infrastructure ownership
+
+Consolidating documentation access roles from 22 roles to 11 roles to improve governance
+
+Supporting least privilege enforcement improvements
+
+Configuring Gigamon fabric maps enabling HTTPS packet slicing and deduplication
+
+Supporting SentinelOne endpoint policy troubleshooting through targeted exclusions
+
+## Results
+
+My work contributed to measurable improvements including:
+
+53.6% reduction in NetWitness ingestion volume
+
+Improved cost efficiency through data optimization
+
+Improved governance through role consolidation
+
+Improved security documentation organization
+
+Prevention of workflow disruptions across mission critical systems
+
+Improved SOC platform stability
+
+## Skills Demonstrated
+
+Technical Skills:
+
+Security operations infrastructure  
+Enterprise SOC tooling  
+Data pipeline optimization  
+Security governance  
+Endpoint security troubleshooting  
+
+Professional Skills:
+
+Technical communication  
+Problem solving  
+Process improvement  
+Collaboration with engineering teams  
+Enterprise environment experience  
+
+## Outcome
+
+This experience resulted in a full-time return offer as an Information Security Systems Engineer. This really confirmed my technical growth and validated my ability to contribute to enterprise cybersecurity environments.

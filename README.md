@@ -24,19 +24,7 @@ This repository documents my internship contributions including:
 • Professional reflection on growth and performance  
 • Documentation of how this experience resulted in a full-time return offer  
 
-## Repository Contents
 
-project-summary.md  
-Detailed summary of work performed and technical contributions
-
-reflection.md  
-Assignment reflection
-
-career-goals.md  
-Career goals and alignment
-
-evidence-log.md  
-Timeline of work contributions
 
 impact-summary.md  
 Measurable project outcomes

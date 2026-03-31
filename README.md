@@ -1,7 +1,7 @@
 # Career Development Experience: Security Infrastructure Engineering Impact
 
 ## Chosen Adventure
-For my Career Development Experience assignment, I chose to document my IT Security Infrastructure internship experience at L3Harris Technologies. During this internship I worked on improving the reliability, efficiency, and governance of enterprise security operations infrastructure. This experience aligns directly with my career goal of becoming a cybersecurity engineer and represents a meaningful stretch experience where I contributed measurable improvements to the orginzations security operations systems.
+For my Career Development Experience assignment, I chose to document my IT Security Infrastructure internship experience at L3Harris Technologies. During this internship I worked on improving the reliability, efficiency, and governance of enterprise security operations infrastructure. This experience aligns directly with my career goal of becoming a cybersecurity engineer and represents a  stretch experience where I contributed improvements to the orginzations security operations systems.
 
 ## Career Goals
 

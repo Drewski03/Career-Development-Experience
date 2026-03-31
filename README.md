@@ -15,6 +15,8 @@ My long-term goal is to become a security or cloud security engineer working on 
 
 ## Summary of Deliverable
 
+Note: Because of the nature of this position and working with all proprietary information, I can not include screenshots of impact as I do not have that.
+
 This repository documents my internship contributions including:
 
 • Security infrastructure improvements  
